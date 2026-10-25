@@ -1,0 +1,69 @@
+{
+  "nodes": [
+    {
+      "name": "a",
+      "type": "QKDNode"
+    },
+    {
+      "name": "b",
+      "type": "QKDNode"
+    },
+    {
+      "name": "c",
+      "type": "QKDNode"
+    },
+    {
+      "name": "d",
+      "type": "QKDNode"
+    }
+  ],
+  "qchannels": [
+    {
+      "node1": "a",
+      "node2": "b",
+      "distance": 1000.0
+    },
+    {
+      "node1": "b",
+      "node2": "c",
+      "distance": 1000.0
+    },
+    {
+      "node1": "b",
+      "node2": "d",
+      "distance": 1000.0
+    }
+  ],
+  "cchannels": [
+    {
+      "node1": "a",
+      "node2": "b",
+      "distance": 1000.0
+    },
+    {
+      "node1": "b",
+      "node2": "a",
+      "distance": 1000.0
+    },
+    {
+      "node1": "b",
+      "node2": "c",
+      "distance": 1000.0
+    },
+    {
+      "node1": "c",
+      "node2": "b",
+      "distance": 1000.0
+    },
+    {
+      "node1": "b",
+      "node2": "d",
+      "distance": 1000.0
+    },
+    {
+      "node1": "d",
+      "node2": "b",
+      "distance": 1000.0
+    }
+  ]
+}

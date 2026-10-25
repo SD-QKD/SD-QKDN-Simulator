@@ -1,0 +1,4 @@
+dash
+
+[leaflet]
+dash-leaflet>=1.0.16rc3

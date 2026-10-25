@@ -1,0 +1,14 @@
+{
+  "nodes": [
+    {
+      "name": "Alice",
+      "light_source": { "name": "ls", "frequency": 80000000 }
+    },
+    {
+      "name": "Bob",
+      "detectors": [
+        { "name": "det" }
+      ]
+    }
+  ]
+}

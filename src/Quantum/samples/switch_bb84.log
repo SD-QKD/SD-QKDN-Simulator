@@ -1,0 +1,14 @@
+0                    INFO    BB84                   A.BB84 generating keys, keylen=256, keynum=1
+15,000,000           INFO    light_source           A.lightsource emitting 2560 photons
+47,000,000           INFO    light_source           A.lightsource emitting 2560 photons
+79,000,000           INFO    light_source           A.lightsource emitting 2560 photons
+111,000,000          INFO    light_source           A.lightsource emitting 2560 photons
+143,000,000          INFO    light_source           A.lightsource emitting 2560 photons
+160,999,997          INFO    BB84                   A.BB84 generated a valid key
+60,000,000,000       INFO    BB84                   B.BB84 generating keys, keylen=256, keynum=1
+60,015,000,000       INFO    light_source           B.lightsource emitting 2560 photons
+60,047,000,000       INFO    light_source           B.lightsource emitting 2560 photons
+60,079,000,000       INFO    light_source           B.lightsource emitting 2560 photons
+60,111,000,000       INFO    light_source           B.lightsource emitting 2560 photons
+60,143,000,000       INFO    light_source           B.lightsource emitting 2560 photons
+60,160,999,997       INFO    BB84                   B.BB84 generated a valid key

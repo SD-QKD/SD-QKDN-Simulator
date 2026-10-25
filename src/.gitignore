@@ -1,0 +1,8 @@
+# # Python cache
+# __pycache__/
+ 
+# # Virtual environment
+# venv/
+ 
+# # Crypto++ archive
+# CRYPTOPP_8_7_0.tar.gz

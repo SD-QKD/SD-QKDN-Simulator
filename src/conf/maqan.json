@@ -1,0 +1,41 @@
+{
+  "topology-id": "1",
+  "topology-name": "MAQAN 5 nodes",
+  "description": "Multi-path Adaptive Quantum Access Network",
+  "numbits": 128,
+  "nodes": [
+    {
+      "nodeid": "A",
+      "name": "Alice",
+      "type": "endpoint"
+    },
+    {
+      "nodeid": "B",
+      "name": "Bob",
+      "type": "relay"
+    },
+    {
+      "nodeid": "C",
+      "name": "Charlie",
+      "type": "relay"
+    },
+    {
+      "nodeid": "D",
+      "name": "David",
+      "type": "relay"
+    },
+    {
+      "nodeid": "F",
+      "name": "Frank",
+      "type": "endpoint"
+    }
+  ],
+  "links": [
+    {
+      "fiberlength": 1000,
+      "fiberlossmodel": "default",
+      "fiberlossinint": 0.01,
+      "fiberlosslength": 0.0002
+    }
+  ]
+}

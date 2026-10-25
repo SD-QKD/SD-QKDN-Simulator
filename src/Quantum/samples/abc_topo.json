@@ -1,0 +1,24 @@
+{
+  "stop_time": 20000000000,
+
+  "nodes": [
+    { "name": "a", "type": "QKDNode", "seed": 1 },
+    { "name": "b", "type": "QKDNode", "seed": 2 },
+    { "name": "c", "type": "QKDNode", "seed": 3 }
+  ],
+
+  "qchannels": [
+    { "node1": "a", "node2": "b", "distance": 1000 },
+    { "node1": "b", "node2": "c", "distance": 1000 }
+  ],
+
+  "cchannels": [
+    { "node1": "a", "node2": "b", "distance": 1000 },
+    { "node1": "b", "node2": "c", "distance": 1000 }
+  ],
+
+  "cconnections": [
+    { "node1": "a", "node2": "b" },
+    { "node1": "b", "node2": "c" }
+  ]
+}

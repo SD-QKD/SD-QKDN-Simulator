@@ -1,0 +1,90 @@
+0                    INFO    BB84                   A.BB84 generating keys, keylen=256, keynum=1
+0                    DEBUG   BB84                   A.BB84 starting protocol
+0                    INFO    BB84                   B_BC.BB84 generating keys, keylen=256, keynum=1
+0                    DEBUG   BB84                   B_BC.BB84 starting protocol
+0                    INFO    BB84                   B_BD.BB84 generating keys, keylen=256, keynum=1
+0                    DEBUG   BB84                   B_BD.BB84 starting protocol
+15,000,000           DEBUG   BB84                   B_AB.BB84 received BEGIN_PHOTON_PULSE, ls_freq=80000000.0, light_time=3.2e-05
+15,000,000           DEBUG   BB84                   B_AB.BB84 setting measurement basis
+15,000,000           DEBUG   BB84                   C.BB84 received BEGIN_PHOTON_PULSE, ls_freq=80000000.0, light_time=3.2e-05
+15,000,000           DEBUG   BB84                   C.BB84 setting measurement basis
+15,000,000           DEBUG   BB84                   D.BB84 received BEGIN_PHOTON_PULSE, ls_freq=80000000.0, light_time=3.2e-05
+15,000,000           DEBUG   BB84                   D.BB84 setting measurement basis
+15,000,000           DEBUG   BB84                   B_BD.BB84 starting photon pulse
+15,000,000           DEBUG   BB84                   A.BB84 starting photon pulse
+15,000,000           DEBUG   BB84                   B_BC.BB84 starting photon pulse
+47,000,000           DEBUG   BB84                   B_BC.BB84 starting photon pulse
+47,000,000           DEBUG   BB84                   B_BD.BB84 starting photon pulse
+47,000,000           DEBUG   BB84                   A.BB84 starting photon pulse
+51,999,999           DEBUG   BB84                   C.BB84 ending photon pulse
+51,999,999           DEBUG   BB84                   C.BB84 setting measurement basis
+51,999,999           DEBUG   BB84                   D.BB84 ending photon pulse
+51,999,999           DEBUG   BB84                   D.BB84 setting measurement basis
+51,999,999           DEBUG   BB84                   B_AB.BB84 ending photon pulse
+51,999,999           DEBUG   BB84                   B_AB.BB84 setting measurement basis
+66,999,999           DEBUG   BB84                   B_BC.BB84 received RECEIVED_QUBITS message
+66,999,999           DEBUG   BB84                   B_BD.BB84 received RECEIVED_QUBITS message
+66,999,999           DEBUG   BB84                   A.BB84 received RECEIVED_QUBITS message
+79,000,000           DEBUG   BB84                   A.BB84 starting photon pulse
+79,000,000           DEBUG   BB84                   B_BC.BB84 starting photon pulse
+79,000,000           DEBUG   BB84                   B_BD.BB84 starting photon pulse
+81,999,999           DEBUG   BB84                   C.BB84 received BASIS_LIST message
+81,999,999           DEBUG   BB84                   D.BB84 received BASIS_LIST message
+81,999,999           DEBUG   BB84                   B_AB.BB84 received BASIS_LIST message
+83,999,998           DEBUG   BB84                   B_AB.BB84 ending photon pulse
+83,999,998           DEBUG   BB84                   B_AB.BB84 setting measurement basis
+83,999,998           DEBUG   BB84                   C.BB84 ending photon pulse
+83,999,998           DEBUG   BB84                   C.BB84 setting measurement basis
+83,999,998           DEBUG   BB84                   D.BB84 ending photon pulse
+83,999,998           DEBUG   BB84                   D.BB84 setting measurement basis
+96,999,999           DEBUG   BB84                   B_BC.BB84 received MATCHING_INDICES message
+96,999,999           DEBUG   BB84                   B_BD.BB84 received MATCHING_INDICES message
+96,999,999           DEBUG   BB84                   A.BB84 received MATCHING_INDICES message
+98,999,998           DEBUG   BB84                   A.BB84 received RECEIVED_QUBITS message
+98,999,998           DEBUG   BB84                   B_BC.BB84 received RECEIVED_QUBITS message
+98,999,998           DEBUG   BB84                   B_BD.BB84 received RECEIVED_QUBITS message
+111,000,000          DEBUG   BB84                   B_BC.BB84 starting photon pulse
+111,000,000          DEBUG   BB84                   A.BB84 starting photon pulse
+111,000,000          DEBUG   BB84                   B_BD.BB84 starting photon pulse
+113,999,998          DEBUG   BB84                   B_AB.BB84 received BASIS_LIST message
+113,999,998          DEBUG   BB84                   C.BB84 received BASIS_LIST message
+113,999,998          DEBUG   BB84                   D.BB84 received BASIS_LIST message
+115,999,997          DEBUG   BB84                   B_AB.BB84 ending photon pulse
+115,999,997          DEBUG   BB84                   B_AB.BB84 setting measurement basis
+115,999,997          DEBUG   BB84                   C.BB84 ending photon pulse
+115,999,997          DEBUG   BB84                   C.BB84 setting measurement basis
+115,999,997          DEBUG   BB84                   D.BB84 ending photon pulse
+115,999,997          DEBUG   BB84                   D.BB84 setting measurement basis
+128,999,998          DEBUG   BB84                   A.BB84 received MATCHING_INDICES message
+128,999,998          DEBUG   BB84                   B_BC.BB84 received MATCHING_INDICES message
+128,999,998          DEBUG   BB84                   B_BD.BB84 received MATCHING_INDICES message
+130,999,997          DEBUG   BB84                   A.BB84 received RECEIVED_QUBITS message
+130,999,997          DEBUG   BB84                   B_BC.BB84 received RECEIVED_QUBITS message
+130,999,997          DEBUG   BB84                   B_BD.BB84 received RECEIVED_QUBITS message
+143,000,000          DEBUG   BB84                   A.BB84 starting photon pulse
+143,000,000          DEBUG   BB84                   B_BC.BB84 starting photon pulse
+143,000,000          DEBUG   BB84                   B_BD.BB84 starting photon pulse
+145,999,997          DEBUG   BB84                   B_AB.BB84 received BASIS_LIST message
+145,999,997          DEBUG   BB84                   C.BB84 received BASIS_LIST message
+145,999,997          DEBUG   BB84                   D.BB84 received BASIS_LIST message
+147,999,996          DEBUG   BB84                   C.BB84 ending photon pulse
+147,999,996          DEBUG   BB84                   C.BB84 setting measurement basis
+147,999,996          DEBUG   BB84                   D.BB84 ending photon pulse
+147,999,996          DEBUG   BB84                   D.BB84 setting measurement basis
+147,999,996          DEBUG   BB84                   B_AB.BB84 ending photon pulse
+147,999,996          DEBUG   BB84                   B_AB.BB84 setting measurement basis
+160,999,997          DEBUG   BB84                   A.BB84 received MATCHING_INDICES message
+160,999,997          INFO    BB84                   A.BB84 generated a valid key
+160,999,997          DEBUG   BB84                   B_BC.BB84 received MATCHING_INDICES message
+160,999,997          INFO    BB84                   B_BC.BB84 generated a valid key
+160,999,997          DEBUG   BB84                   B_BD.BB84 received MATCHING_INDICES message
+160,999,997          INFO    BB84                   B_BD.BB84 generated a valid key
+175,000,000          DEBUG   BB84                   B_BD.BB84 starting photon pulse
+175,000,000          DEBUG   BB84                   B_BC.BB84 starting photon pulse
+175,000,000          DEBUG   BB84                   A.BB84 starting photon pulse
+179,999,995          DEBUG   BB84                   D.BB84 ending photon pulse
+179,999,995          DEBUG   BB84                   C.BB84 ending photon pulse
+179,999,995          DEBUG   BB84                   B_AB.BB84 ending photon pulse
+180,000,001          DEBUG   BB84                   B_BC.BB84 starting protocol
+180,000,001          DEBUG   BB84                   A.BB84 starting protocol
+180,000,001          DEBUG   BB84                   B_BD.BB84 starting protocol
